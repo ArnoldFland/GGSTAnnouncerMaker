@@ -1,5 +1,3 @@
-# GGST Announcer Voice Replacer
-
 A small tool and workflow for replacing announcer / system voices in **GUILTY GEAR -STRIVE-** without using Unreal Engine.
 
 I originally made this while working on an **UNDER NIGHT IN-BIRTH announcer voice mod for GGST**. The goal was simple: replace GGST announcements such as **COUNTER, SLASH, PERFECT, DANGER, POSITIVE, DUEL, LET'S ROCK, Network Matching**, and other system voices with custom audio.
